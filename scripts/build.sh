@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # credit to https://github.com/thibmaek/awesome-raspberry-pi/blob/main/scripts/build.sh
-# untouched/unedited
+# untouched/unedited-yet
 
 set -o errexit  # Exit script when a command exits with non-zero status
 set -o errtrace # Exit on error inside any functions or sub-shells
